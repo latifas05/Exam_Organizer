@@ -21,6 +21,17 @@ The Exam Schedule Organizer is a JavaFX application designed to help students an
 8. Upcoming exams view (next 7 days)
 9. Responsive UI with modern styling
 
+## Presentation:
+[Exam_Schedule_Presantation.pdf](https://github.com/user-attachments/files/19855832/Exam_Schedule_Presantation.pdf)
+
+## Test Cases and Outputs
+1. Add New Exam
+![image](https://github.com/user-attachments/assets/11265f1f-44f6-41dc-ad5b-fadd3175ce72)
+2 Update Exam: 4/25/2026 - 4/15/2025
+![image](https://github.com/user-attachments/assets/c738ef32-aca1-47cb-8096-061bec2cc1e7)
+1. Show Upcoming Exams
+![image](https://github.com/user-attachments/assets/1ed4041a-feef-4c32-ab7b-dd1d2d96ab1e)
+
 ## Documentation
 
 ### Algorithms and Data Structures
@@ -48,13 +59,6 @@ The project uses:
 3. FXML file for UI layout
 4. Java class files for application logic
 
-## Test Cases and Outputs
-1. Add New Exam
-![image](https://github.com/user-attachments/assets/11265f1f-44f6-41dc-ad5b-fadd3175ce72)
-2 Update Exam: 4/25/2026 - 4/15/2025
-![image](https://github.com/user-attachments/assets/c738ef32-aca1-47cb-8096-061bec2cc1e7)
-1. Show Upcoming Exams
-![image](https://github.com/user-attachments/assets/1ed4041a-feef-4c32-ab7b-dd1d2d96ab1e)
 
 ## Database Schema
 
